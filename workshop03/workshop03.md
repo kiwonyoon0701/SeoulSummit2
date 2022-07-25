@@ -350,9 +350,5 @@ Hot Block이 제거되면서 "한정판매서비스"의 성능이 약 4배 개�
 
 ---
 
-[다음 워크샵으로 - workshop04(DYNAMODB를 활용하여 구매내역 조회 서비스 전환하기) ](../workshop04/workshop04.md) 
-
-
-
-## 
+[다음 워크샵으로 - workshop01(MongoDB를 활용한 CRM 리포트 서비스 분리) ](../workshop01/workshop01.md) 
 

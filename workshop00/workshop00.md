@@ -94,6 +94,10 @@
 
 ![image-20220308160008365](images/image-20220308160008365.png)
 
+4-1. Event Engine 사용자의 경우 KeyName을 **ee-default-keyair**로 선택합니다.(앞서 다운로드 받은 DBforMSA.cer의 Pair파일입니다.)
+
+![image-20220726074924993](images/image-20220726074924993.png)
+
 ---
 
 5. "스택 옵션 구성" Page에서 "다음" Click
